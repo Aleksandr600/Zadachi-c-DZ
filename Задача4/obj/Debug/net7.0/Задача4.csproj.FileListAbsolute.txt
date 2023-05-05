@@ -1,0 +1,15 @@
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\bin\Debug\net7.0\Задача4.exe
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\bin\Debug\net7.0\Задача4.deps.json
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\bin\Debug\net7.0\Задача4.runtimeconfig.json
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\bin\Debug\net7.0\Задача4.dll
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\bin\Debug\net7.0\Задача4.pdb
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\Задача4.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\Задача4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\Задача4.AssemblyInfoInputs.cache
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\Задача4.AssemblyInfo.cs
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\Задача4.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\Задача4.dll
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\refint\Задача4.dll
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\Задача4.pdb
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\Задача4.genruntimeconfig.cache
+C:\Users\ALEX\Desktop\Задачи к дз\Задача4\obj\Debug\net7.0\ref\Задача4.dll
